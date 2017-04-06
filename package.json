@@ -1,0 +1,24 @@
+{
+  "name": "text-to-html",
+  "version": "1.0.0",
+  "description": "Text to HTML converter",
+  "main": "main.js",
+  "repository": "https://github.com/Joraffe/text-to-html.git",
+  "author": "Jordan Medina <jordanwmedina@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron-packager": "^8.6.0",
+    "electron-prebuilt-compile": "^1.6.2",
+    "eslint": "^3.19.0",
+    "npm-run-all": "^4.0.2",
+    "rimraf": "^2.6.1",
+    "spectron": "^3.6.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0"
+  }
+}
